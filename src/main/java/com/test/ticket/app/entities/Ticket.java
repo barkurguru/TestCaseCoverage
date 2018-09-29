@@ -74,7 +74,7 @@ public class Ticket {
 	}
 	@Override
 	public String toString() {
-		return "Ticket [ticketId=" + ticketId + ", passengerName=" + passengerName + ", bookingDate=" + bookingDate
+		return "Test Ticket [ticketId=" + ticketId + ", passengerName=" + passengerName + ", bookingDate=" + bookingDate
 				+ ", sourceStation=" + sourceStation + ", destStation=" + destStation + ", email=" + email + "]";
 	}
 }
